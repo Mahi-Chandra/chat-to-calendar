@@ -1,7 +1,6 @@
 # Chat to Calendar
 
-Turn a messy group chat into calendar events using an open-weight AI model that runs entirely on your own laptop.
-Just paste in your chat and get back an .ics file you can import into Google Calendar, Apple Calendar or Outlook.
+Using this locally running app, turn your messy college group chat into calendar events using an open-weight AI model that runs entirely on your own laptop. Just paste in your chat and get back an .ics file you can import into Google Calendar, Apple Calendar or Outlook.
 
 # How it works?
 - No API key, no account and no internet connection required to run this model once downloaded
